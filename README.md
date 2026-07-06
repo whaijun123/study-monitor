@@ -54,5 +54,4 @@ study-monitor/
 - 所有图像处理在客户端本地完成，**不上传图片到服务器**
 - 仅姿势数值数据（yaw/pitch/roll 等）发送给 AI
 
-## License
-MIT
+
